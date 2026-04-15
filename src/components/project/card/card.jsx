@@ -24,7 +24,7 @@ function Card({ title, desc, tags, links = [], image }) {
         <p>{desc}</p>
         <div className="card-btns">
           {links.map((link) => (
-            <a key={link.label} href={link.url}>
+            <a target="_blank" key={link.label} href={link.url}>
               <FontAwesomeIcon icon={iconMap[link.label]} />
               {link.label}
             </a>
