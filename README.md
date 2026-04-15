@@ -113,33 +113,6 @@ As variáveis CSS globais estão centralizadas em `global.css`:
 
 ---
 
-## Rodando localmente
-
-**Pré-requisitos:** Node.js 18+ e npm (ou pnpm / yarn)
-
-```bash
-# Clone o repositório
-git clone https://github.com/gubastos04/portfolio.git
-cd portfolio
-
-# Instale as dependências
-npm install
-
-# Inicie o servidor de desenvolvimento
-npm run dev
-```
-
-Acesse `http://localhost:5173` no navegador.
-
-```bash
-# Build para produção
-npm run build
-
-# Preview do build
-npm run preview
-```
-
----
 
 ## Como adicionar projetos
 
