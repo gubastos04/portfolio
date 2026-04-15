@@ -1,13 +1,13 @@
 import "./card.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faArrowUpRightFromSquare } from "@fortawesome/free-solid-svg-icons";
-import { faGithub, faFigma } from "@fortawesome/free-brands-svg-icons";
-
+import { faArrowUpRightFromSquare, faCaretUp } from "@fortawesome/free-solid-svg-icons";
+import { faGithub, faFigma} from "@fortawesome/free-brands-svg-icons";
 
 const iconMap = {
   Live: faArrowUpRightFromSquare,
   GitHub: faGithub,
   Figma: faFigma,
+  Vercel: faCaretUp,
 };
 
 function Card({ title, desc, tags, links = [], image }) {

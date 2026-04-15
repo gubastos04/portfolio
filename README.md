@@ -1,14 +1,4 @@
 <div align="center">
-
-```
-  ██████╗ ██╗   ██╗██████╗
- ██╔════╝ ██║   ██║██╔══██╗
- ██║  ███╗██║   ██║██████╔╝
- ██║   ██║╚██╗ ██╔╝██╔══██╗
- ╚██████╔╝ ╚████╔╝ ██████╔╝
-  ╚═════╝   ╚═══╝  ╚═════╝
-```
-
 # Gustavo Vieira Bastos — Portfólio
 
 **Portfólio pessoal desenvolvido em React, com dados reais da GitHub API e design minimalista dark.**

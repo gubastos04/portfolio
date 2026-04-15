@@ -3,25 +3,15 @@ import Card from "./card/card";
 import portfolio from "../../assets/portifolio.png";
 
 const projects = [
-  /* opções de links:
-  links: [{ label: "GitHub", url: "#" },
-  links: [{ label: "Live", url: "#" },
-  links: [{ label: "Figma", url: "#" }, 
-  */
-
   {
     title: "Portfólio",
     desc: "Meu site pessoal feito com React.",
     tags: ["React", "CSS"],
     image: portfolio,
-    links: [{ label: "Figma", url: "#" }],
-  },
-    {
-    title: "Portfólio",
-    desc: "Meu site pessoal feito com React.",
-    tags: ["React", "CSS"],
-    image: portfolio,
-    links: [{ label: "Figma", url: "#" }],
+    links: [
+      { label: "Vercel", url: "https://portifolio-xi-one-61.vercel.app" },
+      { label: "GitHub", url: "https://github.com/gubastos04/Portifolio" },
+    ],
   },
 ];
 

@@ -8,8 +8,8 @@
 }
 
 .skills-intro {
-  color: var(--white);
-  font-size: var(--small);
+  color: var(--gray);
+  font-size: var(--smallMobile);
   text-align: justify;
   display: flex;
   flex-direction: column;
