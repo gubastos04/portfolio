@@ -51,7 +51,7 @@ export const PROJECTS = [
     featured: false,
     meta: 'Em desenvolvimento',
     title: 'API de Gestão de Agendamentos',
-    desc: 'API REST desenvolvida para gerenciamento completo de um sistema de agendamento para Nail Designers. A plataforma permite que clientes consultem serviços, profissionais e horários disponíveis, além de realizarem agendamentos online de forma prática e intuitiva.',
+    desc: 'API REST desenvolvida para gerenciamento completo de um sistema de agendamento. A plataforma permite que clientes consultem serviços, profissionais e horários disponíveis, além de realizarem agendamentos online de forma prática e intuitiva.',
     tags: ['Node.js','Express','MongoDB'],
     links: [
       { label: 'GitHub', href: 'https://github.com/gubastos04/Knails'}
